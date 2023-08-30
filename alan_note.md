@@ -1,0 +1,1 @@
+jupyter notebook --notebook-dir=/home/alan/GoogleDrive/archive/sourcecode/tensorflow-1-public
